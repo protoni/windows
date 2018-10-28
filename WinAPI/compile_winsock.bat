@@ -1,0 +1,1 @@
+gcc winsock.c -o winsock -lws2_32
